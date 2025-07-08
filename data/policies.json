@@ -1,0 +1,16 @@
+[
+  {
+    "policy_number": "POL123456",
+    "holder_name": "John Doe",
+    "type": "Health Insurance",
+    "coverage": "500,000 INR",
+    "valid_till": "2025-12-31"
+  },
+  {
+    "policy_number": "POL654321",
+    "holder_name": "Jane Smith",
+    "type": "Car Insurance",
+    "coverage": "1,000,000 INR",
+    "valid_till": "2024-08-15"
+  }
+] 
